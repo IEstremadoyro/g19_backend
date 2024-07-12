@@ -11,3 +11,10 @@ PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git commit -m "
 
 PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git push
 PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> 
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git branch semana01
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git branch
+* main
+  semana01
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git checkout semana01
+Switched to branch 'semana01'
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> 

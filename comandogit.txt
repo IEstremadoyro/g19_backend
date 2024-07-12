@@ -1,0 +1,13 @@
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git init
+
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git add README.md
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git commit -m "primer commit"
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git branch -M main
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git remote add origin https://github.com/IEstremadoyro/g19_backend.giEnumerating objects: 3, done.
+
+estos comando son para poder adicionar la informacion que se va generando
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git add -A
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git commit -m "add prueba"
+
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> git push
+PS C:\Users\iestr\Documents\bootcamp python\backend_g19\backend> 

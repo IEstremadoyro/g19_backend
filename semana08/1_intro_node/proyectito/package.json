@@ -1,0 +1,16 @@
+{
+    "name": "proyectito",
+    "version": "1.0.0",    
+    "author": {
+        "name": "Ignacio",
+        "email": "iestremadoyro@outlook.com.pe"
+    },
+    "license": "UNLICENSED",    
+    "engines": {
+        "node": "22.7.0",
+        "mongoose": "^5.13.2"
+    },
+    "scripts": {
+        "saludar": "echo Hola"
+    }
+}
